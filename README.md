@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prady-mn
-- 👀 I’m interested in Game Development, Simulation Models, Physics Engines
-- 🌱 I’m currently learning Bachelors of Science in Physics
-- 💞️ I’m looking to collaborate on creating games, simulation models.
-- 📫 How to reach me: pradyumnagarwal2003@gmail.com
+- 👀 I’m interested in Computational Physics, Quantum Optics, and Physics Engines
+- 🌱 I’m currently learning Master of Science in Physics @LMU.
+- 💞️ I’m looking to collaborate on all things Computational Physics.
+- 📫 How to reach me: [E-Mail](mailto:pradyumnagarwal2003@gmail.com)
 
 <!---
 Prady-mn/Prady-mn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
